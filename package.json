@@ -59,7 +59,7 @@
     "testURL": "http://localhost/"
   },
   "dependencies": {
-    "electron": "4.0.0",
+    "electron": "9.4.0",
     "faker": "^4.1.0",
     "file-loader": "^0.11.2",
     "moment": "^2.18.1",
